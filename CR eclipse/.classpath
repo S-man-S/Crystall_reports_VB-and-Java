@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="com.businessobjects.crystalreports.integration.eclipse.java.ClasspathContainer"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/eldo5/eclipse/java-2022-12/eclipse/plugins/com.businessobjects.crystalreports.samples_12.2.228.r4126/SampleDatabases/derby.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eldo5/eclipse/java-2022-12/eclipse/plugins/com.businessobjects.crystalreports.samples_12.2.228.r4126/SampleDatabases/Xtreme.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
